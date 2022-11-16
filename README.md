@@ -1,5 +1,3 @@
-# include<studio.h>
-voidmain()
-{
- printf("Hello World...!")
- }
+Hello-World
+
+This is Hello world Program Written in C language 
